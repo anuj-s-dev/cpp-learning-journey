@@ -1,0 +1,1 @@
+// Question:- Print sum from 1 to n.

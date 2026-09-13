@@ -1,0 +1,1 @@
+// Question:- Print the factorial of first n numbers.

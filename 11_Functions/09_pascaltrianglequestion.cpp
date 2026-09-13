@@ -1,0 +1,1 @@
+// Pascal Triangle was printed by the help of combination formula.
